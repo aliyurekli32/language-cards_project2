@@ -5,6 +5,6 @@
  .Used internal data whicih is also mapped to publish in page.
 
 
- => Gained Responsive design capability with Bootstrap and improved  React component knowledge, was became familiar with State Hooks especially useState.   
+ => Gained Responsive design capability with Bootstrap and improved  React component knowledge, was became familiar with State Hooks especially useState..   
 
 
